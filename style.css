@@ -1,0 +1,17 @@
+h1{
+    font-size: 5em;
+    color: turquoise;
+}
+.social_icons{
+    height: 50px;
+}
+#profile {
+    height: 300px;
+}
+body{
+    background-color: bisque;
+}
+
+a{
+    color: crimson;
+}

@@ -1,19 +1,52 @@
 h1{
     font-size: 5em;
-    color: rgb(78, 55, 180);
-}
+    color: black;
+    text-align: center;
+    /* background-color: white; */
 
+}
+h1 span{
+    background-color: white;
+}
+#all_text {
+    background-color: white;
+  }
+  body {
+    background-image: url('images/peterDabbing.jpg');
+  }
 #profile_picture {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
     height: 300px;
 }
+#about_me {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+#list_projects{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ul {
+    display: table;
+  margin: 0 auto;
+  }
 
 .social_icons{
     height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
-body{
-    background-color: bisque;
-}
+
+
+
 
 a{
     color: crimson;
